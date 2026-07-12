@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://www.govdata.de/daten/-/details/govdata-metadatenkatalog
 common:
+  - type: DomainSecurity
+    url: security/open-government-germany-domain-security.yml
   - type: Website
     url: https://www.govdata.de/daten/-/details/govdata-metadatenkatalog
   - type: PublicAPIsListing
