@@ -39,7 +39,6 @@ apis:
   - name: Open Government, Germany
     description: "Germany Government Open Data"
     humanURL: https://www.govdata.de/daten/-/details/govdata-metadatenkatalog
-    baseURL: https://www.govdata.de/daten/-/details/govdata-metadatenkatalog
     tags:
       - Government
     properties:
